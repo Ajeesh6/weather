@@ -20,6 +20,6 @@ function dispayData(destinationDetails){
     m1.innerHTML=`${weather}`
     v1.innerHTML=`${visibility}`
     h1.innerHTML=`${humidity}%`
-    w1.innerHTML=`${wind}km/hr`
+    w1.innerHTML=`${wind}km/h`
     p1.innerHTML=`${pressure}`
 }
